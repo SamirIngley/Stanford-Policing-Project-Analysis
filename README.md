@@ -1,1 +1,4 @@
-Stanford Policing Project Analysis
+# Stanford Policing Project Analysis
+
+## Some findings:
+![conclusion](conclusion.png)
